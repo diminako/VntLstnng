@@ -1,0 +1,9 @@
+.container {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(43, 134, 146);
+}
+
+.round {
+    border-radius: 50%;
+}
